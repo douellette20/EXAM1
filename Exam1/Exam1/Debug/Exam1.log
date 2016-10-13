@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\dean\source\repos\exam1\exam1\exam1\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\dean\source\repos\exam1\exam1\exam1\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\dean\source\repos\exam1\exam1\exam1\main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  Exam1.vcxproj -> C:\Users\Dean\Source\Repos\EXAM1\Exam1\Debug\Exam1.exe
+  Exam1.vcxproj -> C:\Users\Dean\Source\Repos\EXAM1\Exam1\Debug\Exam1.pdb (Full PDB)
